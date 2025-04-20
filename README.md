@@ -34,6 +34,8 @@ AWS Glue Components:-
 
 1.It is configuration object that enables AWS GLue to connect to the data store.
 2. Contains neccessary database connection details such as database endpoints,username,password which causes the connection from AWS Glue to the data store.
+
+
 4.Crawlers
 1. Connects to the data store and scans the data and infer the schema details and store metadata tables in the Data Catalog.
 
